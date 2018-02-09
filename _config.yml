@@ -16,12 +16,8 @@
 title: Ruby Joinville
 # email: your-email@example.com
 author: github.com/magrathealabs
-# description: >
-  # Acreditamos que a diversidade, em suas diversas expressões, deve ser respeitada e valorizada, e que uma sociedade mais diversa é uma sociedade melhor.
-  # Queremos/ viver em um mundo onde as pessoas se sentem seguras para viverem toda a expressão do seu ser, com igualdade de oportunidades, liberdades e direitos.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "diversidade.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
+url: "ruby.joinville.br" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: magrathealabs
 lang: pt-BR
 
