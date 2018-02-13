@@ -1,0 +1,62 @@
+// Duration.
+	$duration-transition:		0.2s;
+
+// Size.
+	$size-border-radius:		6px;
+	$size-element-height:		3em;
+	$size-element-margin:		2em;
+
+// Font.
+	$font-family:				'Source Code Pro', sans-serif;
+	$font-family-fixed:			monospace;
+	$font-weight:				400;
+	$font-weight-bold:			600;
+
+// Color.
+	$color-bg:					#d6092f;
+	$color-fg:					#666;
+	$color-fg-bold:				#646464;
+	$color-fg-light:			#999;
+
+	$color-accent1-bg:			#666;
+	$color-accent1-fg:			mix($color-accent1-bg, #ffffff, 25%);
+	$color-accent1-fg-bold:		#ffffff;
+	$color-accent1-fg-light:	mix($color-accent1-bg, #ffffff, 40%);
+
+	$color-accent2-bg:			#d6092f;
+	$color-accent2-fg:			mix($color-accent2-bg, #ffffff, 25%);
+	$color-accent2-fg-bold:		#ffffff;
+	$color-accent2-fg-light:	mix($color-accent2-bg, #ffffff, 40%);
+
+	$color-accent3-bg:			#cbabf6;
+	$color-accent3-fg:			mix($color-accent3-bg, #ffffff, 25%);
+	$color-accent3-fg-bold:		#ffffff;
+	$color-accent3-fg-light:	mix($color-accent3-bg, #ffffff, 40%);
+
+	$color-accent4-bg:			#bf77ce;
+	$color-accent4-fg:			mix($color-accent4-bg, #ffffff, 25%);
+	$color-accent4-fg-bold:		#ffffff;
+	$color-accent4-fg-light:	mix($color-accent4-bg, #ffffff, 40%);
+
+	$color-accent5-bg:			#68efad;
+	$color-accent5-fg:			mix($color-accent5-bg, #ffffff, 25%);
+	$color-accent5-fg-bold:		#ffffff;
+	$color-accent5-fg-light:	mix($color-accent5-bg, #ffffff, 40%);
+
+	$color-border:				#98D2B6;
+	$color-border-bg:			#f8f8f8;
+
+	$color-border2:				#dddddd;
+	$color-border2-bg:			#f0f0f0;
+
+	$color-header-bg:			#884343;
+	$color-header-bg-green: 	#ffffff;
+	$color-header-fg:			#ffffff;
+	$color-header-button:		#d6092f;
+	$color-header-fg-green: 	#ffffff;
+	$color-header-fg-purple: 	#d6092f;
+	$color-header-fg-bold:		#fff;
+	$color-header-fg-light:		#999;
+
+	$color-footer-bg:			#ffffff;
+	$color-footer-fg:			#000000;
