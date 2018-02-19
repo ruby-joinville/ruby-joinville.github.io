@@ -16,7 +16,7 @@
 title: Ruby Joinville
 # email: your-email@example.com
 author: github.com/magrathealabs
-baseurl: ""
+baseurl: "ruby-joinville"
 url: "magrathealabs.github.io/ruby-joinville" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: magrathealabs
 lang: pt-BR
