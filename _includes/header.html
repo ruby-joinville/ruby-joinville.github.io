@@ -28,14 +28,12 @@
         <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
         <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico?">
     </head>
-    {% if page.url == "/" %}
-        <!-- Banner -->
-        <body class="landing">
-            <section id="banner">
-                <img class="logo" src="{{ site.baseurl }}/assets/images/ruby-logo.png" style="height: 230px; width: 230px" alt="Ruby Joinville" />
-                <h2>Ruby Joinville</h2>
-            </section>
-    {% endif %}
+    <!-- Banner -->
+    <body class="landing">
+        <section id="banner">
+            <img class="logo" src="{{ site.baseurl }}/assets/images/ruby-logo.png" style="height: 230px; width: 230px" alt="Ruby Joinville" />
+            <h2>Ruby Joinville</h2>
+        </section>
     {% include nav.html %}
     <!-- Main -->
     <section id="main" class="container">
