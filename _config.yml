@@ -14,10 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ruby Joinville
+description: >
+  Site da Comunidade Ruby de Joinville
+base_url: ""
 # email: your-email@example.com
-author: github.com/magrathealabs
-baseurl: /ruby-joinville
-url: magrathealabs.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.ruby.joinville.com"
+email: contact@magrathealabs.com
+
+
 github_username: magrathealabs
 lang: pt-BR
 
