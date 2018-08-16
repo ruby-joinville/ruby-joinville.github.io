@@ -1067,3 +1067,13 @@ body.landing #main {
     color: rgba(255, 255, 255, 0.75) !important; }
   #cta .formerize-placeholder {
     color: rgba(255, 255, 255, 0.75) !important; }
+
+.meetup {
+  text-align: left; }
+
+.meetup-title {
+  color: #ff0000;
+  font-weight: 600; }
+
+.meetup-schedule {
+  color: #ff0000; }
